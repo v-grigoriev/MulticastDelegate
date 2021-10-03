@@ -3,15 +3,15 @@
 import PackageDescription
 
 let package = Package(
-    name: "MultitcastDelegate",
+    name: "MulticastDelegate",
     products: [
         .library(
-            name: "MultitcastDelegate",
-            targets: ["MultitcastDelegate"]),
+            name: "MulticastDelegate",
+            targets: ["MulticastDelegate"]),
     ],
     targets: [
         .target(
-            name: "MultitcastDelegate",
+            name: "MulticastDelegate",
             publicHeadersPath: "include"
         ),
     ]
