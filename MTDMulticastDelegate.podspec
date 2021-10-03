@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                  = 'MulticastDelegate'
+  s.name                  = 'MTDMulticastDelegate'
   s.version               = '1.0.0'
   s.summary               = 'An Objective-C implementation of multicast delegate.'
   s.homepage              = 'https://github.com/v-grigoriev/MulticastDelegate'
